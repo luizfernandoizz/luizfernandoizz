@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá! Eu sou o Luiz Fernando ! 👋
 
-<!--
-**luizfernandoizz/luizfernandoizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Estudante de Análise de Dados` · `Em busca da 1ª oportunidade`
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills and Tools
+
+<p align="left">
+  <!-- Python, MySQL e Git -->
+  <img src="https://skillicons.dev/icons?i=py,mysql,git" height="48" alt="Python, MySQL, Git" style="vertical-align: middle;" />
+  
+  <!-- Power BI Desktop -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI Desktop" title="Power BI Desktop" style="vertical-align: middle; margin-left: 6px;" />
+
+  <!-- Microsoft Excel -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Microsoft Excel" title="Microsoft Excel" style="vertical-align: middle; margin-left: 6px;" />
+</p>
+
+---
+
+### 📬 Contato
+
+- ✉️ luizfernandoiz@outlook.com
